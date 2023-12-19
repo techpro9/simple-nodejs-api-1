@@ -1,7 +1,7 @@
 class Messages {
 
   getMessage1() {    
-    return 'Message1a';
+    return 'Message1';
   }
 
   getMessage2() {
